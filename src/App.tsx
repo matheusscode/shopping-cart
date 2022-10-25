@@ -10,7 +10,7 @@ import { Store } from "./pages/Store";
 import { About } from "./pages/About";
 
 //Components
-import { Navbar } from "./components/NavBar";
+import { Navbar } from "./components/Navbar";
 
 //Context
 import { ShoppingCartProvider } from "./context/ShoppingCartContex";
